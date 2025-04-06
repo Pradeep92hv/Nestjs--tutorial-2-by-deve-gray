@@ -3,4 +3,5 @@ npm i @nestjs/cli     t nest cli
 
 nest new lesson1   to create prj
 
-npm run start:dev
+npm run start:dev    to run proj
+
